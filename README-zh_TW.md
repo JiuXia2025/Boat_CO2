@@ -6,8 +6,8 @@
 
  本項目使用GPL-V3開源協議，使用時務必遵守其開源協議！  ！  ！
 
- 語言：[English](https://github.com/JiuXia2025/Boat_CO2/blob/master/README.md)|[簡體中文](https://github.com/JiuXia2025/Boat_CO2/blob/master/README_zh-CN.md)|[繁體中文](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_TW.md)
-
+ 語言： [English](https://github.com/JiuXia2025/Boat_CO2/blob/master/README.md)|[简体中文](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_CN.md)|[繁體中文](https://github.com/JiuXia2025/Boat_CO2/blob/master/README-zh_TW.md)
+ 
  # 捐贈
 
  用愛發電是走不遠的。 開發不易，如果您有能力可以捐贈一下本項目，我會將這些費用用於我的此類項目後續開發服務器支出費用。
