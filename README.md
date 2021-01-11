@@ -15,21 +15,21 @@
 
  # Dependent
 
- -Boat app project
- -GL4ES
- -OpenAL-soft
- -LWJGL 2 port for Boat
- -JNDCrash
- -Gson
+ - Boat app project
+ - GL4ES
+ - OpenAL-soft
+ - LWJGL 2 port for Boat
+ - JNDCrash
+ - Gson
 
  # Thanks
 
  Tribute to all similar projects
- -[Cosinemath/BoatApp](https://github.com/Cosinemath/BoatApp)
- -[NaCln4c1/Boat_H2O-v4](https://github.com/NaCln4c1/Boat_H2O-v4)
- -[AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox)
- -[zhuowei/Boardwalk](https://github.com/zhuowei/Boardwalk)
- -[PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
+ - [Cosinemath/BoatApp](https://github.com/Cosinemath/BoatApp)
+ - [NaCln4c1/Boat_H2O-v4](https://github.com/NaCln4c1/Boat_H2O-v4)
+ - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox)
+ - [zhuowei/Boardwalk](https://github.com/zhuowei/Boardwalk)
+ - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
 
  Thanks to the AOF software development team for their efforts in the development of BoatApp
 
