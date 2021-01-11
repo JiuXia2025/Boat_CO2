@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:60
+-keep class cosine.boat.BoatClientActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class cosine.boat.LauncherActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class cosine.boat.logcat.LogcatService { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class ru.ivanarh.jndcrash.NDCrashService { <init>(...); }
+

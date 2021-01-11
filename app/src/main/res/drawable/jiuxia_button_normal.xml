@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#807F7F7F" />
+	<!-- Boat Co2 Style Author：JiuXia2025 QQ2025226181 -->
+    <stroke
+        android:width="2dp"
+        android:color="#DD7F7F7F" />
+    <corners
+        android:topLeftRadius="5dp"
+        android:topRightRadius="5dp"
+        android:bottomLeftRadius="5dp"
+        android:bottomRightRadius="5dp" />
+    <padding
+        android:left="8dp"
+        android:top="0dp"
+        android:right="8dp"
+        android:bottom="0dp" />
+</shape>
+
